@@ -25,14 +25,11 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **System Design, Backend Development, and Advanced DSA**
-- 💻 Built **2 Full Stack MERN Stack Projects**
+- 💻 Built **few Full Stack MERN Stack Projects**
 - 🔭 Interested in **Software Development, Backend Engineering, and Full Stack Development**
-- 📚 Strong foundation in **DSA, DBMS, Operating Systems, and Computer Networks**
+- 📚 Knowledge in **DSA, DBMS, Operating Systems, and Computer Networks**
 - ⚡ Solved hundreds of coding problems in **C++**
-- 🤝 Open to **Software Engineering Internship** opportunities
-- ⚡ Fun fact: I debug faster with coffee ☕
 
----
 
 ## 🛠️ Tech Stack
 
@@ -89,35 +86,7 @@
 - Mathematical formula to check weak topics in DSA
 - **Stack:** MERN
 
----
 
-## 📈 Currently Improving
-`TypeScript` `PostgreSQL` `Docker` `System Design` `REST APIs` `Backend Development`
-
----
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshulShukla136&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulShukla136&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulShukla136&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshulShukla136&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/as_anshul?theme=dark&font=baloo+2&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
