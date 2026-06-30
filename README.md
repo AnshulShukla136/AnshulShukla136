@@ -86,24 +86,6 @@
 - Mathematical formula to check weak topics in DSA
 - **Stack:** MERN
 
-
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/anshul-shukla136" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anshulshukla136@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/as_anshul" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-<p align="center">⭐ Thanks for visiting my profile! Feel free to connect and collaborate.</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnshulShukla136&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
 </p>
