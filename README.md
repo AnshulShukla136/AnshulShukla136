@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/anshul-shukla136" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:anshulshukla136@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AnshulShukla136" target="_blank">
@@ -77,16 +77,16 @@
 
 ## 📂 Featured Projects
 
-### 🔐 [Secure File Management System](https://github.com/AnshulShukla136/REPO-NAME)
+### 🔐 [FindSpot - Price Comparison & Shopping Website](https://github.com/AnshulShukla136/FindSpot)
 - User authentication
-- Secure file upload & management
-- Role-based access
+- Amazon and flipkart API
+- Caching and Rate Limiting for spams
 - **Stack:** MERN
 
-### 🎟️ [Event Management System](https://github.com/AnshulShukla136/REPO-NAME)
+### 🎟️ [DevTrack - Developer Analytics & Recommendation Platorm](https://github.com/AnshulShukla136/DevTrack)
 - User registration & login
-- Event booking
-- Admin dashboard
+- You can see all your github, Leetcode and Codeforces profile at one place 
+- Mathematical formula to check weak topics in DSA
 - **Stack:** MERN
 
 ---
@@ -95,11 +95,6 @@
 `TypeScript` `PostgreSQL` `Docker` `System Design` `REST APIs` `Backend Development`
 
 ---
-
-## 🎯 Goals
-- 🎯 Crack a Software Engineering Internship
-- 💪 Become a Strong Full Stack Developer
-- ☁️ Learn Distributed Systems & Cloud Technologies
 
 ---
 
@@ -130,7 +125,7 @@
   <a href="https://linkedin.com/in/anshul-shukla136" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anshulshukla136.com">
+  <a href="mailto:anshulshukla136@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/as_anshul" target="_blank">
