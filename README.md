@@ -25,7 +25,6 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **System Design, Backend Development, and Advanced DSA**
-- 💻 Built **few Full Stack MERN Stack Projects**
 - 🔭 Interested in **Software Development, Backend Engineering, and Full Stack Development**
 - 📚 Knowledge in **DSA, DBMS, Operating Systems, and Computer Networks**
 - ⚡ Solved hundreds of coding problems in **C++**
