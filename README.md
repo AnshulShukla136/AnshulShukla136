@@ -77,7 +77,7 @@
 
 ## 📂 Featured Projects
 
-### 🔐 [FindSpot - Price Comparison & Shopping Website](https://github.com/AnshulShukla136/FindSpot)
+### 🔐 [FindSpot - Price Comparison & Shopping Website](https://github.com/AnshulShukla136/findspot-client)
 - User authentication
 - Amazon and flipkart API
 - Caching and Rate Limiting for spams
